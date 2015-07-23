@@ -1,2 +1,4 @@
 # jack_project_one
 First Github repository
+
+This is a test project to see how Github works.
